@@ -1,24 +1,38 @@
-title: Configurando wifi no cisco packet tracer
-tagline: connecting a computer to a wifi router in cisco packet tracer
+# Configuring Wi-Fi in Cisco Packet Tracer
 
-description: É um exemplo no cisco packet tracer, onde conectados computadores a um roteador wifi configurado 
+**Tagline**: Connecting a computer to a Wi-Fi router in Cisco Packet Tracer
 
+## Description
 
+This is an example in Cisco Packet Tracer, where computers are connected to a configured Wi-Fi router.
 
-Installatiin
-baixe o repositório
+## Installation
+
+Download the repository:
+
+```bash
 git clone https://github.com/gustavorods/2025_2_4_pc_with_wifi_router_cisco_packet_tracer.git
-entre no cisco 
-abra o projeto
+```
 
-Usage 
-você pode configurar a senha e nome da rede wifi em:
-router wifi > config > Wireless 
-SSID: nome
+Log in to Cisco Packet Tracer and open the project.
+
+## Usage
+
+You can set the Wi-Fi network name and password at:
+
+```bash
+Router Wi-Fi > Config > Wireless
+SSID: name
 Authentication: password
+```
 
-Você conecta dos pcs no roteador usando 
-pc > Desktop > Pc wireless > connect > your_netowrk > put password
+To connect PCs to the router:
 
-lincece: 
+```bash
+PC > Desktop > PC Wireless > Connect > Your_network > Put password
+```
+
+## License 
+
 MIT
+
