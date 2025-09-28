@@ -1,6 +1,6 @@
 # Configuring Wi-Fi in Cisco Packet Tracer
 
-**Tagline**: Connecting a computer to a Wi-Fi router in Cisco Packet Tracer
+Connecting a computer to a Wi-Fi router in Cisco Packet Tracer
 
 ## Description
 
